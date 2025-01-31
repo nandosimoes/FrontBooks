@@ -6,7 +6,7 @@
   
   body {
     font-family: Arial, sans-serif;
-    background-color: #e9f7f0; /* Fundo claro verde */
+    background-color: #e9f7f0; 
     color: #333;
     display: flex;
     min-height: 100vh;
@@ -14,7 +14,7 @@
   }
   
   .forms {
-    background-color: #38a169; /* Verde mais intenso */
+    background-color: #38a169;
     display: flex;
     justify-content: center;
     align-items: center;
